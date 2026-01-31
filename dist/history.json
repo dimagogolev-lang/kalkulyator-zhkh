@@ -1,0 +1,24 @@
+[
+  {
+    "period": "Октябрь 2025",
+    "date_saved": "2026-01-31",
+    "sum_water": 597.77,
+    "sum_electricity": 289.52,
+    "total": 887.29,
+    "xvs_curr": 55.58,
+    "gvs_curr": 49.54,
+    "el_day_curr": 1487.59,
+    "el_night_curr": 648.86
+  },
+  {
+    "period": "Октябрь 2025",
+    "date_saved": "2026-01-31",
+    "sum_water": 718.65,
+    "sum_electricity": 339.28,
+    "total": 1057.93,
+    "xvs_curr": 57.74,
+    "gvs_curr": 51.53,
+    "el_day_curr": 1531.81,
+    "el_night_curr": 662.75
+  }
+]
